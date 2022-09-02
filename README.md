@@ -9,7 +9,7 @@
 
 - 📫 Comment me joindre ! **medusa.coding@gmail.com**
 
-- 🧠 Fait amusant **Si je peux l'Imaginer je peux Le coder**
+- 🧠 Fait amusant **"Si je peux l'Imaginer je peux Le coder"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
