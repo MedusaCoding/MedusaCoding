@@ -5,7 +5,7 @@
 
 - 🌱 J'apprends actuellement **Le langage SwiftUI**
 
-- 👨‍💻 Tous mes projets sont disponibles sur [https://puzzling-link-146.notion.site/Mes-Projets-a90dcf559b434d228f75281ffaaded84](https://puzzling-link-146.notion.site/Mes-Projets-a90dcf559b434d228f75281ffaaded84)
+- 👨‍💻 Tous mes projets sont disponibles ici 👇🏻
 
 - 📫 Comment me joindre ! **medusa.coding@gmail.com**
 
